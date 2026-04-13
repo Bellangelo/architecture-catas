@@ -21,6 +21,7 @@ prepend_front_matter "README.md" "---
 title: Home
 layout: home
 nav_order: 1
+permalink: /
 ---"
 
 # CONTRIBUTING.md
