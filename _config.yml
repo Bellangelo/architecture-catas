@@ -1,0 +1,28 @@
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+
+title: Architecture Catas
+description: A collection of guaranteed disasters for architecture katas
+
+url: https://bellangelo.github.io
+baseurl: /architecture-catas
+
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  GitHub:
+    - https://github.com/Bellangelo/architecture-catas
+
+aux_links_new_tab: true
+
+nav_sort: case_insensitive
+
+exclude:
+  - scripts/
+  - .cursor/
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-remote-theme
