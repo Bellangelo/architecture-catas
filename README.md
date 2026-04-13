@@ -4,6 +4,16 @@
 
 A tongue-in-cheek collection of anti-patterns, bad habits, and guaranteed-disaster moves for anyone facilitating or participating in [architecture katas](https://fundamentalsofsoftwarearchitecture.com/katas/). Learn what to do by studying what **not** to do.
 
+## How to Use
+
+1. **Before a kata** browse the list and remind yourself what not to do.
+2. **After a kata** see if you accidentally pulled off any of these catas.
+3. **For fun** try to spot them in the wild during tech conferences.
+
+## Contributing
+
+Got a cata to add? See [CONTRIBUTING.md](CONTRIBUTING.md) for the template and guidelines.
+
 ## Facilitator Catas
 
 How to ruin the kata before it even starts.
@@ -28,16 +38,6 @@ How to architect yourself into a corner.
 | [The Deer in Headlights](catas/participant/the-deer-in-headlights.md) | The team hits a wall and freezes. Nobody knows how to move forward, and nobody is willing to try. |
 | [The Silent Audience](catas/participant/the-silent-audience.md) | Sit through other teams' presentations without asking a single question. |
 | [The Recurring Question](catas/participant/the-recurring-question.md) | Questions keep coming back mid-discussion, but the team re-answers them instead of recognizing the misalignment underneath. |
-
-## How to Use
-
-1. **Before a kata** browse the list and remind yourself what not to do.
-2. **After a kata** see if you accidentally pulled off any of these catas.
-3. **For fun** try to spot them in the wild during tech conferences.
-
-## Contributing
-
-Got a cata to add? See [CONTRIBUTING.md](CONTRIBUTING.md) for the template and guidelines.
 
 ## License
 
