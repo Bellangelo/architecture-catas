@@ -4,7 +4,7 @@
 
 A tongue-in-cheek collection of anti-patterns, bad habits, and guaranteed-disaster moves for anyone facilitating or participating in [architecture katas](https://fundamentalsofsoftwarearchitecture.com/katas/). Learn what to do by studying what **not** to do.
 
-*Aggelos Bellos needed a word for failing at katas. "Cata" was the best he could do.*
+*I needed a word for failing at katas. "Cata" was the best I could do.*
 
 ## How to Use
 
