@@ -26,6 +26,7 @@ How to architect yourself into a corner.
 | [The Empty Hands Fear](catas/participant/the-empty-hands-fear.md) | Rush to fill the whiteboard because having nothing to present feels worse than presenting the wrong thing. |
 | [The Deer in Headlights](catas/participant/the-deer-in-headlights.md) | The team hits a wall and freezes. Nobody knows how to move forward, and nobody is willing to try. |
 | [The Silent Audience](catas/participant/the-silent-audience.md) | Sit through other teams' presentations without asking a single question. |
+| [The Recurring Question](catas/participant/the-recurring-question.md) | Questions keep coming back mid-discussion, but the team re-answers them instead of recognizing the misalignment underneath. |
 
 ## How to Use
 
