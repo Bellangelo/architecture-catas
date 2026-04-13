@@ -14,6 +14,7 @@ How to ruin the kata before it even starts.
 | [The Vague Briefing](catas/facilitator/the-vague-briefing.md) | Skip the intro. Don't explain objectives, deliverables, or time structure. |
 | [The Tech-Savvy Stakeholder](catas/facilitator/the-tech-savvy-stakeholder.md) | Play the business role but talk like an architect, accidentally handing teams the solution. |
 | [The Harsh Critic](catas/facilitator/the-harsh-critic.md) | Tell teams exactly what they got wrong instead of guiding them to discover the gaps. |
+| [The Hands-Off Facilitator](catas/facilitator/the-hands-off-facilitator.md) | Watch teams spiral without offering a single facilitation technique to get them unstuck. |
 
 ## Participant Catas
 
