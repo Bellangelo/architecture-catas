@@ -1,9 +1,3 @@
----
-title: The Tech-Savvy Stakeholder
-parent: Facilitator Catas
-nav_order: 3
----
-
 # The Tech-Savvy Stakeholder
 
 > You know the tech, so help teams out by being specific. "We need a REST API with three microservices" saves everyone time.

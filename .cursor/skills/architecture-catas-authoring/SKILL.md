@@ -13,7 +13,7 @@ description: Conventions for authoring content in the architecture-catas repo. U
 ## Writing Style
 
 - **No em dashes or double dashes.** Do not use `—` or ` -- ` as punctuation anywhere in the content. Restructure sentences instead.
-- **Markdown with front matter.** Each cata file has a small YAML front matter block for just-the-docs navigation. GitHub hides front matter when rendering, so files still read well on GitHub.
+- **No front matter in source files.** Cata files must not contain YAML front matter. GitHub renders front matter as a visible table, which ruins readability. Front matter is injected at build time by `scripts/build-site.sh`.
 - **Relative links everywhere.** Link between files using relative paths (e.g., `the-silent-treatment.md` from a sibling, `catas/facilitator/foo.md` from root).
 
 ## Cata Structure
@@ -36,23 +36,13 @@ Each cata follows this template (defined in `CONTRIBUTING.md`):
 - Each folder has a `README.md` index that lists its catas
 - Root `README.md` has a table linking to all catas
 
-## Front Matter
+## GitHub Pages / Jekyll
 
-Each cata file needs a YAML front matter block at the top:
-
-```yaml
----
-title: The Cata Name
-parent: Facilitator Catas   # or "Participant Catas"
-nav_order: N                # sequential within the parent
----
-```
-
-The folder `README.md` files use `has_children: true` instead of `parent`.
+The site uses the `just-the-docs` theme via Jekyll on GitHub Pages. Front matter required by Jekyll is **not** stored in the source files. Instead, `scripts/build-site.sh` injects it during the GitHub Actions build. The script reads each file's `# Title` heading to derive the `title` front matter value. If you add a new cata, make sure its filename matches the `catas/<role>/the-*.md` glob so the build script picks it up automatically.
 
 ## When Adding a New Cata
 
 1. Confirm the cata name and one-liner with the user
-2. Write the cata file in the correct folder with front matter (`title`, `parent`, `nav_order`)
+2. Write the cata file in the correct folder (no front matter needed)
 3. Add it to the folder's `README.md`
 4. Add it to the root `README.md` table

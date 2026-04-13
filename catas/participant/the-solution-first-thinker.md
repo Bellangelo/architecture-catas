@@ -1,9 +1,3 @@
----
-title: The Solution-First Thinker
-parent: Participant Catas
-nav_order: 1
----
-
 # The Solution-First Thinker
 
 > Skip the boring problem exploration. You already know you need Kafka.

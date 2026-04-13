@@ -1,9 +1,3 @@
----
-title: The Empty Hands Fear
-parent: Participant Catas
-nav_order: 3
----
-
 # The Empty Hands Fear
 
 > Having nothing to present is worse than presenting the wrong thing. Right?

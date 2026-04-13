@@ -1,9 +1,3 @@
----
-title: The Silent Audience
-parent: Participant Catas
-nav_order: 5
----
-
 # The Silent Audience
 
 > Sit through other teams' presentations without asking a single question. Your job is done.

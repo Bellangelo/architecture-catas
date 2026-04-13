@@ -1,8 +1,3 @@
----
-title: Contributing
-nav_order: 4
----
-
 # Contributing
 
 Want to add a new cata? Great the world needs more documented disasters.
@@ -28,8 +23,8 @@ Want to add a new cata? Great the world needs more documented disasters.
 
 ## The Anti-Pattern
 
-Describe what you do wrong, written as ironic "advice." Lean into the humor --
-tell the reader exactly how to guarantee failure.
+Describe what you do wrong, written as ironic "advice." Lean into the humor.
+Tell the reader exactly how to guarantee failure.
 
 ## Why It Feels Right
 

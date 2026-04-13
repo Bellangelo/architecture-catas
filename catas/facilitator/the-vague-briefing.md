@@ -1,9 +1,3 @@
----
-title: The Vague Briefing
-parent: Facilitator Catas
-nav_order: 2
----
-
 # The Vague Briefing
 
 > Hand out the problem statement and say "go." Everything they need to know is in there somewhere.

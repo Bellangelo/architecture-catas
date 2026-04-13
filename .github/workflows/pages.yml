@@ -21,6 +21,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Inject front matter
+        run: bash scripts/build-site.sh
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

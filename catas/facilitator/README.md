@@ -1,9 +1,3 @@
----
-title: Facilitator Catas
-nav_order: 2
-has_children: true
----
-
 # Facilitator Catas
 
 How to ruin an architecture kata before it even starts.

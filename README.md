@@ -1,9 +1,3 @@
----
-title: Home
-layout: home
-nav_order: 1
----
-
 # Architecture Catas
 
 > **cata** _(noun, from "catastrophe")_: an architecture kata exercise gone horribly wrong.

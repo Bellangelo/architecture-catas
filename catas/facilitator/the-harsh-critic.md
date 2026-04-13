@@ -1,9 +1,3 @@
----
-title: The Harsh Critic
-parent: Facilitator Catas
-nav_order: 4
----
-
 # The Harsh Critic
 
 > Tell them exactly what they got wrong. That's how they learn.

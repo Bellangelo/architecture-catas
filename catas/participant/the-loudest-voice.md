@@ -1,9 +1,3 @@
----
-title: The Loudest Voice
-parent: Participant Catas
-nav_order: 2
----
-
 # The Loudest Voice
 
 > Talk the most, listen the least. Architecture is a solo sport with an audience.

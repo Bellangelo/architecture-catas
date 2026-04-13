@@ -1,9 +1,3 @@
----
-title: The Over-Corrector
-parent: Facilitator Catas
-nav_order: 1
----
-
 # The Over-Corrector
 
 > Jump in at the first sign of trouble. Great facilitators don't let teams make mistakes.

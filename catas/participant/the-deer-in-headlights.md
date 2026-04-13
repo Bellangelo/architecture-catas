@@ -1,9 +1,3 @@
----
-title: The Deer in Headlights
-parent: Participant Catas
-nav_order: 4
----
-
 # The Deer in Headlights
 
 > Stare at the whiteboard. Wait for someone else to go first. Keep waiting.

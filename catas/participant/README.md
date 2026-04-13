@@ -1,9 +1,3 @@
----
-title: Participant Catas
-nav_order: 3
-has_children: true
----
-
 # Participant Catas
 
 How to architect yourself into a corner.
